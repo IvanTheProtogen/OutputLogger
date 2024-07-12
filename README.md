@@ -1,4 +1,4 @@
-## [ ⚠️ ] Before you'll put this script on Auto-Execute, you must be aware of overflows this script can cause. Overflows can extend from several kilobytes to a few gigabytes. Always remember to clean the "LoggedOutputs" folder in the Workspace folder.
+## [ ⚠️ ] Before you'll put this script on Auto-Execute, you must be aware of bloats/overflows this script can cause. Bloats/overflows can extend from several kilobytes to a few gigabytes. Always remember to clean the "LoggedOutputs" folder in the Workspace folder.
 
 This script automatically logs all output messages for you.
 
