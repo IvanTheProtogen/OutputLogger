@@ -4,3 +4,8 @@ This script automatically logs all output messages for you in every single Roblo
 
 All files with logged outputs go into the "LoggedOutputs" folder under the Workspace folder.
 Names of the log files have roblox place's IDs and roblox server's Job-IDs.
+
+**In order to execute this script**
+```lua
+loadstring(game:HttpGet("https://github.com/IvanTheProtogen/OutputLogger/raw/main/main.lua"))();
+```
